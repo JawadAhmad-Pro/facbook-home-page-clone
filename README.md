@@ -49,6 +49,8 @@ Contributing
 <br>
 Contributions are welcome! If you have suggestions or want to improve the project, feel free to fork this repository and submit pull requests.
 <br>
+<br>
+<br>
 Author
 Jawad Ahmad
 <br>
