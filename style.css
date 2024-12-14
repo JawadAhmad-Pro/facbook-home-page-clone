@@ -411,7 +411,7 @@ hr {
 .user-story {
     height: 150px;
     width: 140px;
-    background-image: url(imgs/jdfb-img.jpg.png);
+    background-image: url('imgs/fb-img.jpg.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -451,14 +451,14 @@ hr {
 
 
 .umar-story {
-    background-image: url(bk-img/sajidbk.img.jpg.png);
+    background-image: url(imgs/umar-story-img.jpg.png);
     background-size: cover;
 }
 
 .umar-id {
     height: 50px;
     width: 50px;
-    background-image: url(imgs/umarfb.jpg.png);
+    background-image: url(imgs/umar-id-img.jpg.png);
     background-size: cover;
     border-radius: 50%;
     margin-top: 10px;
@@ -467,14 +467,14 @@ hr {
 }
 
 .aizaz-story {
-    background-image: url(bk-img/story-car-img.jpg.png);
+    background-image: url(imgs/aizaz-story-img.jpg.png);
     background-size: cover;
 }
 
 .aizaz-id {
     height: 50px;
     width: 50px;
-    background-image: url(imgs/aizazfb.jpg.png);
+    background-image: url(imgs/aizaz-id-img.jpg.png);
     background-size: cover;
     border-radius: 50%;
     margin-top: 10px;
@@ -483,14 +483,14 @@ hr {
 }
 
 .aliM-story {
-    background-image: url(bk-img/hondbk-img.jpg.png);
+    background-image: url(imgs/alim-story-img.jpg.png);
     background-size: cover;
 }
 
 .aliM-id {
     height: 50px;
     width: 50px;
-    background-image: url(imgs/aliMfb-story-img.jpg.png);
+    background-image: url(imgs/alim-id-img.jpg.png);
     background-size: cover;
     border-radius: 50%;
     margin-top: 10px;
@@ -560,12 +560,12 @@ hr {
 }
 
 .post-dot i{
-    font-size: 30px;
+    font-size: 35px;
     color: #a9a2a2;
 }
 
 .post-Xmark i{
-    font-size: 30px;
+    font-size: 35px;
     color: #a9a2a2;
 }
 
@@ -584,3 +584,4 @@ hr {
     height: 600px;
     width: 570px;
 }
+
