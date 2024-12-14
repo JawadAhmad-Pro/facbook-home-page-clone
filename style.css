@@ -502,6 +502,7 @@ hr {
 .user-post {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     padding: 20px;
     border-radius: 10px;
     background-color: #2b3131;
@@ -512,6 +513,8 @@ hr {
     align-items: center;
     margin-bottom: 10px;
 }
+
+
 
 .user-pic {
     width: 50px;
@@ -529,24 +532,55 @@ hr {
 
 .user-name {
     font-weight: bold;
+    width: 100px;
     font-size: 18px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .post-time {
     font-size: 14px;
-    color: #666;
+    color: #a9a2a2;
     margin-left: 10px;
 }
 
 .location {
     font-size: 14px;
-    color: #666;
+    color: #a9a2a2;
     margin-left: 10px;
 }
 
+.post-moreInfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10px;
+    width: 450px;
+    color: black;
+    
+}
+
+.post-dot i{
+    font-size: 30px;
+    color: #a9a2a2;
+}
+
+.post-Xmark i{
+    font-size: 30px;
+    color: #a9a2a2;
+}
+
+.TimeContianer{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
 .post-content {
-    height: 200px;
-    width: 200px;
-    padding: 5px;
+  height: 600px;
+  width: 500px;
+}
+
+.post-content img{
+    height: 600px;
+    width: 570px;
 }
