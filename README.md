@@ -30,7 +30,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/JawadAhmadPro44/facebook-homepage-clone.git
+git clone https://github.com/JawadAhmad-Pro/facebook-homepage-clone.git
 Open index.html in your browser.
 <br>
 <br>
@@ -54,4 +54,4 @@ Contributions are welcome! If you have suggestions or want to improve the projec
 Author
 Jawad Ahmad
 <br>
-GitHub: JawadAhmadPro44
+GitHub: JawadAhmad-Pro
